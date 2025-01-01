@@ -1,0 +1,16 @@
+#spring:
+#  application:
+#    name: API-GAYEWAY
+#
+#server:
+#  port: 9090
+#
+#
+#eureka:
+#  client:
+#    registerWithEureka: true
+#    fetchRegistry: true
+#    service-url:
+#      defaultZone: http://localhost:8084/eureka/
+#  instance:
+#    hostname: localhost
